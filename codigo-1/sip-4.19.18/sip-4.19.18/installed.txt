@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib\site-packages\sipconfig.py
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib\site-packages\sipdistutils.py
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include\sip.h
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\sip.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib\site-packages\sip.pyi
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib\site-packages\sip.pyd
